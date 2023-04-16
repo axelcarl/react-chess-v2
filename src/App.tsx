@@ -6,7 +6,6 @@ function App() {
 
   return (
     <div>
-      <h1>Chess</h1>
       <Board/>
     </div>
 
